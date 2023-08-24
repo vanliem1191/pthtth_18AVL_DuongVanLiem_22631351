@@ -1,0 +1,29 @@
+/* Tô màu viền cho thẻ div có lớp personal-info-item */
+.personal-info-item {
+    border: 2px solid #007bff; /* Màu viền xanh dương */
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f0f0f0; /* Màu nền xám nhạt */
+    border-radius: 5px; /* Bo góc viền */
+}
+
+/* Tô màu cho nút "Tải Thông tin" */
+#loadDataButton {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    display: block; /* Chuyển nút thành phần tử block để có thể áp dụng các thuộc tính căn giữa */
+    margin: 0 auto; /* Căn giữa theo chiều ngang */
+    text-align: center; /* Căn giữa nội dung của nút */
+}
+
+/* Căn giữa nút bằng cách sử dụng flexbox */
+#buttonContainer {
+    display: flex;
+    justify-content: center;
+}
+
+/* Căn giữa tiêu đề h1 */
+h1.text-center {
+    text-align: center;
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Dương Văn Liêm",
+        "gender": "Nam",
+        "dob": "20/11/1991",
+        "phone": "0379654174",
+        "email": "vanliem1191@gmail.com",
+        "hometown": "Phú Quốc"
+    },
+    {
+        "name": "Vũ Văn Quân",
+        "gender": "Nam",
+        "dob": "15/05/1994",
+        "phone": "90389872654",
+        "email": "quanvv@gmail.com",
+        "hometown": "Hồ Chí Minh"
+    },
+    {
+        "name": "Bùi Thị Đức Vượng",
+        "gender": "Nam",
+        "dob": "21/02/2001",
+        "phone": "0987092644",
+        "email": "ducvuong2k@gmail.com",
+        "hometown": "Đà Nẵng"
+    },
+    {
+        "name": "Trần Quốc Khánh",
+        "gender": "Nam",
+        "dob": "02/09/1998",
+        "phone": "0987092644",
+        "email": "quockhanh209@gmail.com",
+        "hometown": "Bạc Liêu"
+    }
+]
